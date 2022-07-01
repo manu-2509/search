@@ -1,0 +1,11 @@
+.search{
+    border:1px solid black;
+    height:230px;
+    overflow-y: scroll;
+    width: 250px;
+    margin:auto;
+}
+.s-input{
+    width:250px;
+    text-align:center;
+}
